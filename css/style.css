@@ -1,0 +1,25 @@
+/* Enter your custom styles here */
+.LogIndiv{
+    height: 400px;
+    margin: 50px;
+}
+.centerelements{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.headingpara{
+     font-size: 25px;
+     color: #3090c7;
+}
+.myBackgroundStyle{
+    height : '300px';
+    background-image:url('https://thumbs.dreamstime.com/z/human-resources-crm-recruitment-business-concept-copy-spac-human-resources-talent-management-crm-recruitment-business-108307717.jpg');
+    
+    }
+    .sapUiSmallMarginTop{
+        font-size: 20px;
+        text-shadow: greenyellow;
+        lighting-color: greenyellow;
+    }
